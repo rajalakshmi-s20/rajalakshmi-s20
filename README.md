@@ -45,8 +45,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://rajalakshmi-s20.github.io/portfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-https://rajalakshmi-s20.github.io/portfolio/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://rajalakshmi-s20.github.io/portfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/rajalakshmi20/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/rajalakshmi20/-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:rajalakshmi.sarangan20@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rajalakshmi.sarangan20@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [rajalakshmi-s20](https://github.com/rajalakshmi-s20)
