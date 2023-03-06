@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Rajalakshmi.S</h2>
+<h2> Hey there! I'm S.Rajalakshmi</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
