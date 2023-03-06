@@ -50,4 +50,14 @@
 <a href="mailto:rajalakshmi.sarangan20@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rajalakshmi.sarangan20@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
+
 ⭐️ From [rajalakshmi-s20](https://github.com/rajalakshmi-s20)
