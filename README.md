@@ -1,12 +1,12 @@
-<h2> Hey there! I'm S.Rajalakshmi</h2>
+<h2> Hey there! I'm Rajalakshmi S, currently pursuing Master of Engineering in Computer Science & Engineering at the prestigious Madras Institute of Technology (MIT). I have recently completed my Bachelor of Engineering in Computer Science & Engineering from Velammal Engineering College, Chennai.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science Engineering in Velammal Engineering College.
-- 💼 &nbsp; Working as a Web Development and Designing Intern.
+- 🎓 &nbsp; Studying Computer Science Engineering in Madras Institute of Technology.
+- 💼 &nbsp; Working as a Full Stack Development Intern and a freelancer.
 - 🌱 &nbsp; Learning more about Cloud Computing, Blockchain and Artificial Intelligence.
-- ✍️ &nbsp; Technical head of Youth Red Cross of Velammal Engineering College.
+- ✍️ &nbsp; Completed my B.E. CSE in Velammal Engineering College in 2024.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
