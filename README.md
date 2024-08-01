@@ -1,12 +1,12 @@
-<h2> Hey there! I'm Rajalakshmi S, currently pursuing Master of Engineering in Computer Science & Engineering at the prestigious Madras Institute of Technology (MIT). I have recently completed my Bachelor of Engineering in Computer Science & Engineering from Velammal Engineering College, Chennai.</h2>
+<h2> Hey there! I'm Rajalakshmi S</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 🎓 &nbsp; Studying M.E. Computer Science and Engineering in Madras Institute of Technology, Anna University.
+- ✍️ &nbsp; Completed B.E. Computer Science and Engineering in Velammal Engineering College in 2024.
+- 💼 &nbsp; Working as a Freelance Full Stack Developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science Engineering in Madras Institute of Technology.
-- 💼 &nbsp; Working as a Full Stack Development Intern and a freelancer.
 - 🌱 &nbsp; Learning more about Cloud Computing, Blockchain and Artificial Intelligence.
-- ✍️ &nbsp; Completed my B.E. CSE in Velammal Engineering College in 2024.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -46,15 +46,5 @@
 <a href="https://www.linkedin.com/in/rajalakshmi20/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/rajalakshmi20/-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:rajalakshmi.sarangan20@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rajalakshmi.sarangan20@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
-<!-- wi*quL3fcV -->
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
 
 ⭐️ From [rajalakshmi-s20](https://github.com/rajalakshmi-s20)
