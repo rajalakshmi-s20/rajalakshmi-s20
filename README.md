@@ -4,11 +4,11 @@
 
 - 🎓 &nbsp; Pursuing M.E. in Computer Science and Engineering at Madras Institute of Technology, Anna University (2024–2026)
 - ✍️ &nbsp; Completed B.E. in Computer Science and Engineering from Velammal Engineering College (2020–2024)
-- 💼 &nbsp; Part-time Research Intern at the 6G Ubiquitous Connectivity Lab under the NGNLab, Madras Institute of Technology
+- 💼 &nbsp; Research Intern at the 6G Ubiquitous Connectivity Lab under the NGNLab, Madras Institute of Technology
 - 🤔 &nbsp; Exploring emerging technologies and designing innovative software solutions
 - 💻 &nbsp; Active in competitive coding platforms like HackerRank, LeetCode and CodeChef
 - 🔬 &nbsp; Researching Ultra-Reliable Low-Latency Communication (URLLC) in 5G, Beyond 5G and 6G networks
-- 🌱 &nbsp; Learning more about Cloud Computing, Blockchain and Artificial Intelligence
+- 🌱 &nbsp; Learning more about Cloud Computing, Quantum Computing, Blockchain and Artificial Intelligence
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
