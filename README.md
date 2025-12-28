@@ -1,5 +1,5 @@
 <h2 align="center">🚀 RAJALAKSHMI S</h2>
-<h4 align="center">Research in 5G/B5G/6G | Full-Stack Developer | Competitive Programmer</h4>
+<h4 align="center">Research in AI-RAN | Full-Stack Developer | Competitive Programmer</h4>
 
 ### 👋 Hello World!
 
@@ -11,11 +11,10 @@
 
 ### Research Focus
 
-- 5G/6G Network Architecture
-- O-RAN & RAN Intelligent Controller (RIC)
-- Ultra-Reliable Low-Latency Communication (URLLC)
+- 5G/B5G/6G Networks
+- O-RAN
 - ML-driven Network Optimization
-- Blockchain for Secure Systems
+- Blockchain
 
 ### Technical Proficiency
 
