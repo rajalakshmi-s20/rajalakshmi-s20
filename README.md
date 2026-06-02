@@ -1,20 +1,16 @@
-<h2 align="center">🚀 RAJALAKSHMI S</h2>
-<h4 align="center">Research in AI-RAN | Full-Stack Developer | Competitive Programmer</h4>
+<h2 align="center">RAJALAKSHMI S</h2>
+<h4 align="center">6G, AI-RAN, O-RAN & AI/ML Researcher | Full-Stack Developer</h4>
 
 ### 👋 Hello World!
 
 ### Academic Journey
 
+- **M.E. Computer Science and Engineering** | Anna University, Madras Institute of Technology Campus (2024 - 2026)
 - **B.E. Computer Science and Engineering** | Velammal Engineering College (2020 - 2024)
-- **M.E. Computer Science and Engineering** | Madras Institute of Technology (2024 - Present)
-- **Research Intern** | **6G Ubiquitous Connectivity Lab** under NGNLab, Anna University, MIT Campus (Apr 2025 - Present)
 
-### Research Focus
+### Experience
 
-- 5G/B5G/6G Networks
-- O-RAN
-- ML-driven Network Optimization
-- Blockchain
+- **Research Intern** | **6G Ubiquitous Connectivity Lab** under NGNLab, Anna University, MIT Campus (Apr 2025 - Oct 2025)
 
 ### Technical Proficiency
 
@@ -28,7 +24,3 @@
 ### Let's Connect & Collaborate
 
 I'm always excited to collaborate on innovative projects and research in emerging technologies. Let's connect and create something amazing!
-<p>
-<a href="https://www.linkedin.com/in/rajalakshmi20/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/rajalakshmi20/-blue?style=flat-square"></a>
-<a href="mailto:rajalakshmi.sarangan20@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rajalakshmi.sarangan20@gmail.com-blue?style=flat-square"></a>
-</p>
